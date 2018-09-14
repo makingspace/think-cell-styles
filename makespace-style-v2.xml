@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<style name="MakeSpace" xmlns="https://schemas.think-cell.com/26504/tcstyle" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://schemas.think-cell.com/26504/tcstyle https://schemas.think-cell.com/26504/tcstyle.xsd">
+	<fillLst>
+		<noFill name="No Fill"/>
+    <solidFill name="MakeSpace Green">
+      <sdrgbClr r="62" g="174" b="95"/>
+    </solidFill>
+    <solidFill name="Light Blue">
+      <sdrgbClr r="147" g="212" b="229"/>
+    </solidFill>
+    <solidFill name="Fourth Green">
+      <sdrgbClr r="24" g="81" b="38"/>
+    </solidFill>
+    <solidFill name="Gold">
+      <sdrgbClr r="255" g="204" b="10"/>
+    </solidFill>
+    <solidFill name="Second Green">
+      <sdrgbClr r="28" g="152" b="83"/>
+    </solidFill>
+    <solidFill name="Olive">
+      <sdrgbClr r="163" g="182" b="156"/>
+    </solidFill>
+    <solidFill name="Orange">
+      <sdrgbClr r="241" g="103" b="34"/>
+    </solidFill>
+    <separator/>
+    <solidFill name="Third Green">
+      <sdrgbClr r="8" g="117" b="62"/>
+    </solidFill>
+    <solidFill name="Darkest Green">
+      <sdrgbClr r="15" g="57" b="22"/>
+    </solidFill>
+    <separator/>
+    <solidFill name="Light Green Gray">
+      <sdrgbClr r="242" g="243" b="242"/>
+    </solidFill>
+    <solidFill name="Lightest Blue">
+      <sdrgbClr r="201" g="231" b="227"/>
+    </solidFill>
+    <separator/>
+    <solidFill name="tx1">
+			<schemeClr val="tx1"/>
+		</solidFill>
+		<solidFill name="bg1">
+			<schemeClr val="bg1"/>
+		</solidFill>
+		<solidFill name="tx2">
+			<schemeClr val="tx2"/>
+		</solidFill>
+		<solidFill name="bg2">
+			<schemeClr val="bg2"/>
+		</solidFill>
+		<solidFill name="accent1">
+			<schemeClr val="accent1"/>
+		</solidFill>
+		<solidFill name="accent2">
+			<schemeClr val="accent2"/>
+		</solidFill>
+		<solidFill name="accent3">
+			<schemeClr val="accent3"/>
+		</solidFill>
+		<solidFill name="accent4">
+			<schemeClr val="accent4"/>
+		</solidFill>
+		<solidFill name="accent5">
+			<schemeClr val="accent5"/>
+		</solidFill>
+		<solidFill name="accent6">
+			<schemeClr val="accent6"/>
+		</solidFill>
+		<solidFill name="hlink">
+			<schemeClr val="hlink"/>
+		</solidFill>
+		<solidFill name="folHlink">
+			<schemeClr val="folHlink"/>
+		</solidFill>
+		<separator/>
+		<solidFill name="tc Red">
+			<sdrgbClr r="195" g="12" b="62"/>
+		</solidFill>
+		<solidFill name="tc Gray">
+			<sdrgbClr r="214" g="215" b="217"/>
+		</solidFill>
+		<solidFill name="tc Green">
+			<sdrgbClr r="0" g="119" b="112"/>
+		</solidFill>
+		<solidFill name="Smoke 10%">
+			<sdrgbClr r="223" g="229" b="239"/>
+		</solidFill>
+		<solidFill name="Smoke 20%">
+			<sdrgbClr r="195" g="207" b="225"/>
+		</solidFill>
+		<solidFill name="Smoke 40%">
+			<sdrgbClr r="157" g="177" b="207"/>
+		</solidFill>
+		<solidFill name="Smoke 60%">
+			<sdrgbClr r="111" g="141" b="185"/>
+		</solidFill>
+		<solidFill name="Smoke 80%">
+			<sdrgbClr r="76" g="108" b="156"/>
+		</solidFill>
+		<solidFill name="Smoke 90%">
+			<sdrgbClr r="54" g="77" b="110"/>
+		</solidFill>
+		<separator/>
+		<solidFill name="White">
+			<prstClr val="white"/>
+		</solidFill>
+		<solidFill name="Light Gray">
+			<prstClr val="silver"/>
+		</solidFill>
+		<solidFill name="Med. Gray">
+			<sdrgbClr r="150" g="150" b="150"/>
+		</solidFill>
+		<solidFill name="Dark Gray">
+			<prstClr val="gray"/>
+		</solidFill>
+		<solidFill name="Black">
+			<prstClr val="black"/>
+		</solidFill>
+		<separator/>
+		<pattFill name="10%" prst="pct10">
+			<fgClr>
+				<schemeClr val="tx1"/>
+			</fgClr>
+			<bgClr>
+				<schemeClr val="bg1"/>
+			</bgClr>
+		</pattFill>
+		<pattFill name="50%" prst="pct50">
+			<fgClr>
+				<schemeClr val="tx1"/>
+			</fgClr>
+			<bgClr>
+				<schemeClr val="bg1"/>
+			</bgClr>
+		</pattFill>
+		<pattFill name="75%" prst="pct75">
+			<fgClr>
+				<schemeClr val="tx1"/>
+			</fgClr>
+			<bgClr>
+				<schemeClr val="bg1"/>
+			</bgClr>
+		</pattFill>
+		<pattFill name="Light downward diagonal" prst="ltDnDiag">
+			<fgClr>
+				<schemeClr val="tx1"/>
+			</fgClr>
+			<bgClr>
+				<schemeClr val="bg1"/>
+			</bgClr>
+		</pattFill>
+		<pattFill name="Light upward diagonal" prst="ltUpDiag">
+			<fgClr>
+				<schemeClr val="tx1"/>
+			</fgClr>
+			<bgClr>
+				<schemeClr val="bg1"/>
+			</bgClr>
+		</pattFill>
+		<pattFill name="Wide downward diagonal" prst="wdDnDiag">
+			<fgClr>
+				<schemeClr val="tx1"/>
+			</fgClr>
+			<bgClr>
+				<schemeClr val="bg1"/>
+			</bgClr>
+		</pattFill>
+		<pattFill name="Wide upward diagonal" prst="wdUpDiag">
+			<fgClr>
+				<schemeClr val="tx1"/>
+			</fgClr>
+			<bgClr>
+				<schemeClr val="bg1"/>
+			</bgClr>
+		</pattFill>
+	</fillLst>
+	<lnLst>
+		<ln w="3175" name="Solid 0.25 pt">
+			<prstDash val="solid"/>
+		</ln>
+		<ln w="6350" name="Solid 0.5 pt">
+			<prstDash val="solid"/>
+		</ln>
+		<ln w="9525" name="Solid 0.75 pt">
+			<prstDash val="solid"/>
+		</ln>
+		<ln w="12700" name="Solid 1 pt">
+			<prstDash val="solid"/>
+		</ln>
+		<ln w="19050" name="Solid 1.5 pt">
+			<prstDash val="solid"/>
+		</ln>
+		<ln w="28575" name="Solid 2.25 pt">
+			<prstDash val="solid"/>
+		</ln>
+		<ln w="38100" name="Solid 3 pt">
+			<prstDash val="solid"/>
+		</ln>
+		<ln w="76200" name="Solid 6 pt">
+			<prstDash val="solid"/>
+		</ln>
+		<ln w="152400" name="Solid 12 pt">
+			<prstDash val="solid"/>
+		</ln>
+		<ln w="3175" name="Long Dash 0.25 pt">
+			<prstDash val="lgDash"/>
+		</ln>
+		<ln w="6350" name="Long Dash 0.5 pt">
+			<prstDash val="lgDash"/>
+		</ln>
+		<ln w="9525" name="Long Dash 0.75 pt">
+			<prstDash val="lgDash"/>
+		</ln>
+		<ln w="12700" name="Long Dash 1 pt">
+			<prstDash val="lgDash"/>
+		</ln>
+		<ln w="19050" name="Long Dash 1.5 pt">
+			<prstDash val="lgDash"/>
+		</ln>
+		<ln w="28575" name="Long Dash 2.25 pt">
+			<prstDash val="lgDash"/>
+		</ln>
+		<ln w="38100" name="Long Dash 3 pt">
+			<prstDash val="lgDash"/>
+		</ln>
+		<ln w="76200" name="Long Dash 6 pt">
+			<prstDash val="lgDash"/>
+		</ln>
+		<ln w="152400" name="Long Dash 12 pt">
+			<prstDash val="lgDash"/>
+		</ln>
+		<ln w="3175" name="Dash 0.25 pt">
+			<prstDash val="dash"/>
+		</ln>
+		<ln w="6350" name="Dash 0.5 pt">
+			<prstDash val="dash"/>
+		</ln>
+		<ln w="9525" name="Dash 0.75 pt">
+			<prstDash val="dash"/>
+		</ln>
+		<ln w="12700" name="Dash 1 pt">
+			<prstDash val="dash"/>
+		</ln>
+		<ln w="19050" name="Dash 1.5 pt">
+			<prstDash val="dash"/>
+		</ln>
+		<ln w="28575" name="Dash 2.25 pt">
+			<prstDash val="dash"/>
+		</ln>
+		<ln w="38100" name="Dash 3 pt">
+			<prstDash val="dash"/>
+		</ln>
+		<ln w="76200" name="Dash 6 pt">
+			<prstDash val="dash"/>
+		</ln>
+		<ln w="152400" name="Dash 12 pt">
+			<prstDash val="dash"/>
+		</ln>
+		<ln w="3175" name="Dot 0.25 pt">
+			<prstDash val="sysDot"/>
+		</ln>
+		<ln w="6350" name="Dot 0.5 pt">
+			<prstDash val="sysDot"/>
+		</ln>
+		<ln w="9525" name="Dot 0.75 pt">
+			<prstDash val="sysDot"/>
+		</ln>
+		<ln w="12700" name="Dot 1 pt">
+			<prstDash val="sysDot"/>
+		</ln>
+		<ln w="19050" name="Dot 1.5 pt">
+			<prstDash val="sysDot"/>
+		</ln>
+		<ln w="28575" name="Dot 2.25 pt">
+			<prstDash val="sysDot"/>
+		</ln>
+		<ln w="38100" name="Dot 3 pt">
+			<prstDash val="sysDot"/>
+		</ln>
+		<ln w="76200" name="Dot 6 pt">
+			<prstDash val="sysDot"/>
+		</ln>
+		<ln w="152400" name="Dot 12 pt">
+			<prstDash val="sysDot"/>
+		</ln>
+	</lnLst>
+	<markerLst>
+		<marker name="Marker1">
+			<symbol val="circle"/>
+		</marker>
+		<marker name="Marker2">
+			<symbol val="triangle"/>
+		</marker>
+		<marker name="Marker3">
+			<symbol val="diamond"/>
+		</marker>
+		<marker name="Marker4">
+			<symbol val="square"/>
+		</marker>
+		<marker name="Marker5">
+			<symbol val="hollowCircle"/>
+		</marker>
+		<marker name="Marker6">
+			<symbol val="hollowTriangle"/>
+		</marker>
+		<marker name="Marker7">
+			<symbol val="hollowDiamond"/>
+		</marker>
+		<marker name="Marker8">
+			<symbol val="hollowSquare"/>
+		</marker>
+		<marker name="Marker9">
+			<symbol val="star"/>
+		</marker>
+		<marker name="Marker10">
+			<symbol val="x"/>
+		</marker>
+		<marker name="ExtraMarker1">
+			<symbol val="dash"/>
+		</marker>
+		<marker name="ExtraMarker2">
+			<symbol val="dot"/>
+		</marker>
+		<marker name="ExtraMarker3">
+			<symbol val="plus"/>
+		</marker>
+	</markerLst>
+	<lnfillDefault>
+		<lnRef name="Solid 0.75 pt"/>
+		<solidfillRef name="tx1"/>
+	</lnfillDefault>
+	<lnfillGridline>
+		<lnRef name="Solid 0.25 pt"/>
+	</lnfillGridline>
+	<shapestyleLst>
+		<shapestyle name="Bubble">
+			<fillRef name="bg1"/>
+		</shapestyle>
+	</shapestyleLst>
+	<fillSchemeLst>
+		<fillScheme name="All Accent 1" fillRefOtherSeries="accent1">
+			<fillRef name="accent1"/>
+		</fillScheme>
+		<fillScheme name="All White" fillRefOtherSeries="White">
+			<fillRef name="White"/>
+		</fillScheme>
+    <fillScheme name="MakeSpace Contrast" fillRefOtherSeries="White">
+      <fillRef name="MakeSpace Green"/>
+    </fillScheme>
+		<fillScheme name="PowerPoint Theme" fillRefOtherSeries="Light downward diagonal">
+			<lnfillSegment>
+				<noLine/>
+			</lnfillSegment>
+			<lnfillSegmentMekko>
+				<lnRef name="Solid 0.75 pt"/>
+				<solidfillRef name="bg1"/>
+			</lnfillSegmentMekko>
+			<fillRef name="accent1"/>
+			<fillRef name="accent2"/>
+			<fillRef name="accent3"/>
+			<fillRef name="accent4"/>
+			<fillRef name="accent5"/>
+			<fillRef name="accent6"/>
+		</fillScheme>
+		<fillScheme name="PowerPoint Theme (rev.)" reverse="1" fillRefOtherSeries="Light downward diagonal">
+			<lnfillSegment>
+				<noLine/>
+			</lnfillSegment>
+			<lnfillSegmentMekko>
+				<lnRef name="Solid 0.75 pt"/>
+				<solidfillRef name="bg1"/>
+			</lnfillSegmentMekko>
+			<fillRef name="accent1"/>
+			<fillRef name="accent2"/>
+			<fillRef name="accent3"/>
+			<fillRef name="accent4"/>
+			<fillRef name="accent5"/>
+			<fillRef name="accent6"/>
+		</fillScheme>
+		<fillScheme name="PowerPoint 2003 Legacy" fillRefOtherSeries="Light downward diagonal">
+			<fillRef name="accent1"/>
+			<fillRef name="accent2"/>
+			<fillRef name="hlink"/>
+			<fillRef name="folHlink"/>
+			<fillRef name="bg2"/>
+			<fillRef name="tx2"/>
+		</fillScheme>
+		<fillScheme name="PowerPoint 2003 Legacy (rev.)" reverse="1" fillRefOtherSeries="Light downward diagonal">
+			<fillRef name="accent1"/>
+			<fillRef name="accent2"/>
+			<fillRef name="hlink"/>
+			<fillRef name="folHlink"/>
+			<fillRef name="bg2"/>
+			<fillRef name="tx2"/>
+		</fillScheme>
+		<fillScheme name="Smoke Blue" fillRefOtherSeries="White">
+			<fillRef name="Smoke 10%"/>
+			<fillRef name="Smoke 20%"/>
+			<fillRef name="Smoke 40%"/>
+			<fillRef name="Smoke 60%"/>
+			<fillRef name="Smoke 80%"/>
+			<fillRef name="Smoke 90%"/>
+		</fillScheme>
+		<fillScheme name="Patterns" fillRefOtherSeries="50%">
+			<fillRef name="bg1"/>
+			<fillRef name="10%"/>
+			<fillRef name="Light downward diagonal"/>
+			<fillRef name="75%"/>
+			<fillRef name="Wide upward diagonal"/>
+			<fillRef name="tx1"/>
+		</fillScheme>
+	</fillSchemeLst>
+	<lnfillmarkerSchemeLst>
+		<lnfillmarkerScheme name="PowerPoint Theme">
+			<lnfillmarker>
+				<lnRef name="Solid 1.5 pt"/>
+				<solidfillRef name="accent1"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Solid 1.5 pt"/>
+				<solidfillRef name="accent2"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Solid 1.5 pt"/>
+				<solidfillRef name="accent3"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Solid 1.5 pt"/>
+				<solidfillRef name="accent4"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Solid 1.5 pt"/>
+				<solidfillRef name="accent5"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Solid 1.5 pt"/>
+				<solidfillRef name="accent6"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Solid 2.25 pt"/>
+				<solidfillRef name="accent1"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Solid 2.25 pt"/>
+				<solidfillRef name="accent2"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Solid 2.25 pt"/>
+				<solidfillRef name="accent3"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Solid 2.25 pt"/>
+				<solidfillRef name="accent4"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Solid 2.25 pt"/>
+				<solidfillRef name="accent5"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Solid 2.25 pt"/>
+				<solidfillRef name="accent6"/>
+			</lnfillmarker>
+		</lnfillmarkerScheme>
+		<lnfillmarkerScheme name="PowerPoint Theme with markers">
+			<lnfillmarker>
+				<lnRef name="Solid 1.5 pt"/>
+				<solidfillRef name="accent1"/>
+				<markerRef name="Marker1"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Solid 1.5 pt"/>
+				<solidfillRef name="accent2"/>
+				<markerRef name="Marker1"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Solid 1.5 pt"/>
+				<solidfillRef name="accent3"/>
+				<markerRef name="Marker1"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Solid 1.5 pt"/>
+				<solidfillRef name="accent4"/>
+				<markerRef name="Marker1"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Solid 1.5 pt"/>
+				<solidfillRef name="accent5"/>
+				<markerRef name="Marker1"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Solid 1.5 pt"/>
+				<solidfillRef name="accent6"/>
+				<markerRef name="Marker1"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Solid 2.25 pt"/>
+				<solidfillRef name="accent1"/>
+				<markerRef name="Marker1"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Solid 2.25 pt"/>
+				<solidfillRef name="accent2"/>
+				<markerRef name="Marker1"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Solid 2.25 pt"/>
+				<solidfillRef name="accent3"/>
+				<markerRef name="Marker1"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Solid 2.25 pt"/>
+				<solidfillRef name="accent4"/>
+				<markerRef name="Marker1"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Solid 2.25 pt"/>
+				<solidfillRef name="accent5"/>
+				<markerRef name="Marker1"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Solid 2.25 pt"/>
+				<solidfillRef name="accent6"/>
+				<markerRef name="Marker1"/>
+			</lnfillmarker>
+		</lnfillmarkerScheme>
+		<lnfillmarkerScheme name="PowerPoint 2003 Legacy">
+			<lnfillmarker>
+				<lnRef name="Solid 1.5 pt"/>
+				<solidfillRef name="tx2"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Solid 1.5 pt"/>
+				<solidfillRef name="accent2"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Solid 1.5 pt"/>
+				<solidfillRef name="hlink"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Solid 1.5 pt"/>
+				<solidfillRef name="folHlink"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Solid 2.25 pt"/>
+				<solidfillRef name="tx2"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Solid 2.25 pt"/>
+				<solidfillRef name="accent2"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Solid 2.25 pt"/>
+				<solidfillRef name="hlink"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Solid 2.25 pt"/>
+				<solidfillRef name="folHlink"/>
+			</lnfillmarker>
+		</lnfillmarkerScheme>
+		<lnfillmarkerScheme name="PowerPoint 2003 Legacy with markers">
+			<lnfillmarker>
+				<lnRef name="Solid 1.5 pt"/>
+				<solidfillRef name="tx2"/>
+				<markerRef name="Marker1"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Solid 1.5 pt"/>
+				<solidfillRef name="accent2"/>
+				<markerRef name="Marker1"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Solid 1.5 pt"/>
+				<solidfillRef name="hlink"/>
+				<markerRef name="Marker1"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Solid 1.5 pt"/>
+				<solidfillRef name="folHlink"/>
+				<markerRef name="Marker1"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Solid 2.25 pt"/>
+				<solidfillRef name="tx2"/>
+				<markerRef name="Marker1"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Solid 2.25 pt"/>
+				<solidfillRef name="accent2"/>
+				<markerRef name="Marker1"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Solid 2.25 pt"/>
+				<solidfillRef name="hlink"/>
+				<markerRef name="Marker1"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Solid 2.25 pt"/>
+				<solidfillRef name="folHlink"/>
+				<markerRef name="Marker1"/>
+			</lnfillmarker>
+		</lnfillmarkerScheme>
+		<lnfillmarkerScheme name="Dash">
+			<lnfillmarker>
+				<lnRef name="Solid 1.5 pt"/>
+				<solidfillRef name="tx2"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Long Dash 1.5 pt"/>
+				<solidfillRef name="tx2"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Dash 1.5 pt"/>
+				<solidfillRef name="tx2"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Solid 2.25 pt"/>
+				<solidfillRef name="tx2"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Long Dash 2.25 pt"/>
+				<solidfillRef name="tx2"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Dash 2.25 pt"/>
+				<solidfillRef name="tx2"/>
+			</lnfillmarker>
+		</lnfillmarkerScheme>
+		<lnfillmarkerScheme name="Dash with markers">
+			<lnfillmarker>
+				<lnRef name="Solid 1.5 pt"/>
+				<solidfillRef name="tx2"/>
+				<markerRef name="Marker1"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Long Dash 1.5 pt"/>
+				<solidfillRef name="tx2"/>
+				<markerRef name="Marker2"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Dash 1.5 pt"/>
+				<solidfillRef name="tx2"/>
+				<markerRef name="Marker3"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Solid 2.25 pt"/>
+				<solidfillRef name="tx2"/>
+				<markerRef name="Marker4"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Long Dash 2.25 pt"/>
+				<solidfillRef name="tx2"/>
+				<markerRef name="Marker9"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Dash 2.25 pt"/>
+				<solidfillRef name="tx2"/>
+				<markerRef name="Marker10"/>
+			</lnfillmarker>
+		</lnfillmarkerScheme>
+		<lnfillmarkerScheme name="Mono">
+			<lnfillmarker>
+				<lnRef name="Solid 2.25 pt"/>
+				<solidfillRef name="tx2"/>
+			</lnfillmarker>
+		</lnfillmarkerScheme>
+		<lnfillmarkerScheme name="Mono with markers">
+			<lnfillmarker>
+				<lnRef name="Solid 2.25 pt"/>
+				<solidfillRef name="tx2"/>
+				<markerRef name="Marker1"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Solid 2.25 pt"/>
+				<solidfillRef name="tx2"/>
+				<markerRef name="Marker2"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Solid 2.25 pt"/>
+				<solidfillRef name="tx2"/>
+				<markerRef name="Marker3"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Solid 2.25 pt"/>
+				<solidfillRef name="tx2"/>
+				<markerRef name="Marker4"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Solid 2.25 pt"/>
+				<solidfillRef name="tx2"/>
+				<markerRef name="Marker5"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Solid 2.25 pt"/>
+				<solidfillRef name="tx2"/>
+				<markerRef name="Marker6"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Solid 2.25 pt"/>
+				<solidfillRef name="tx2"/>
+				<markerRef name="Marker7"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Solid 2.25 pt"/>
+				<solidfillRef name="tx2"/>
+				<markerRef name="Marker8"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Solid 2.25 pt"/>
+				<solidfillRef name="tx2"/>
+				<markerRef name="Marker9"/>
+			</lnfillmarker>
+			<lnfillmarker>
+				<lnRef name="Solid 2.25 pt"/>
+				<solidfillRef name="tx2"/>
+				<markerRef name="Marker10"/>
+			</lnfillmarker>
+		</lnfillmarkerScheme>
+	</lnfillmarkerSchemeLst>
+	<fillmarkerSchemeLst>
+		<fillmarkerScheme name="No Markers">
+			<noMarker/>
+		</fillmarkerScheme>
+		<fillmarkerScheme name="Shapes">
+			<fillmarker>
+				<markerRef name="Marker1"/>
+				<solidfillRef name="accent1"/>
+			</fillmarker>
+			<fillmarker>
+				<markerRef name="Marker2"/>
+				<solidfillRef name="accent1"/>
+			</fillmarker>
+			<fillmarker>
+				<markerRef name="Marker3"/>
+				<solidfillRef name="accent1"/>
+			</fillmarker>
+			<fillmarker>
+				<markerRef name="Marker4"/>
+				<solidfillRef name="accent1"/>
+			</fillmarker>
+			<fillmarker>
+				<markerRef name="Marker5"/>
+				<solidfillRef name="accent1"/>
+			</fillmarker>
+			<fillmarker>
+				<markerRef name="Marker6"/>
+				<solidfillRef name="accent1"/>
+			</fillmarker>
+			<fillmarker>
+				<markerRef name="Marker7"/>
+				<solidfillRef name="accent1"/>
+			</fillmarker>
+			<fillmarker>
+				<markerRef name="Marker8"/>
+				<solidfillRef name="accent1"/>
+			</fillmarker>
+			<fillmarker>
+				<markerRef name="Marker9"/>
+				<solidfillRef name="accent1"/>
+			</fillmarker>
+			<fillmarker>
+				<markerRef name="Marker10"/>
+				<solidfillRef name="accent1"/>
+			</fillmarker>
+		</fillmarkerScheme>
+		<fillmarkerScheme name="PowerPoint Theme">
+			<fillmarker>
+				<markerRef name="Marker1"/>
+				<solidfillRef name="accent1"/>
+			</fillmarker>
+			<fillmarker>
+				<markerRef name="Marker1"/>
+				<solidfillRef name="accent2"/>
+			</fillmarker>
+			<fillmarker>
+				<markerRef name="Marker1"/>
+				<solidfillRef name="accent3"/>
+			</fillmarker>
+			<fillmarker>
+				<markerRef name="Marker1"/>
+				<solidfillRef name="accent4"/>
+			</fillmarker>
+			<fillmarker>
+				<markerRef name="Marker1"/>
+				<solidfillRef name="accent5"/>
+			</fillmarker>
+			<fillmarker>
+				<markerRef name="Marker1"/>
+				<solidfillRef name="accent6"/>
+			</fillmarker>
+		</fillmarkerScheme>
+		<fillmarkerScheme name="PowerPoint 2003 Legacy">
+			<fillmarker>
+				<markerRef name="Marker1"/>
+				<solidfillRef name="tx2"/>
+			</fillmarker>
+			<fillmarker>
+				<markerRef name="Marker1"/>
+				<solidfillRef name="accent2"/>
+			</fillmarker>
+			<fillmarker>
+				<markerRef name="Marker1"/>
+				<solidfillRef name="hlink"/>
+			</fillmarker>
+			<fillmarker>
+				<markerRef name="Marker1"/>
+				<solidfillRef name="folHlink"/>
+			</fillmarker>
+		</fillmarkerScheme>
+		<fillmarkerScheme name="Grayscale">
+			<fillmarker>
+				<markerRef name="Marker1"/>
+				<solidfillRef name="Black"/>
+			</fillmarker>
+			<fillmarker>
+				<markerRef name="Marker2"/>
+				<solidfillRef name="Dark Gray"/>
+			</fillmarker>
+			<fillmarker>
+				<markerRef name="Marker3"/>
+				<solidfillRef name="Med. Gray"/>
+			</fillmarker>
+			<fillmarker>
+				<markerRef name="Marker4"/>
+				<solidfillRef name="Light Gray"/>
+			</fillmarker>
+		</fillmarkerScheme>
+	</fillmarkerSchemeLst>
+	<fillSchemeRefDefault name="PowerPoint Theme"/>
+	<lnfillmarkerSchemeRefDefault name="PowerPoint Theme"/>
+	<lnfillmarkerSchemeRefDefaultCombination name="Mono"/>
+	<fillmarkerSchemeRefDefault name="PowerPoint Theme"/>
+	<label>
+		<lnfillLeaderLine>
+			<lnRef name="Solid 0.5 pt"/>
+		</lnfillLeaderLine>
+		<shapestyleRefBubble name="Bubble"/>
+		<sumLabelPosition val="accordingToSign"/>
+	</label>
+	<chart>
+		<lnfillArrow>
+			<lnRef name="Solid 2.25 pt"/>
+		</lnfillArrow>
+		<lnfillArrowCategoryDifference>
+			<lnRef name="Solid 1 pt"/>
+		</lnfillArrowCategoryDifference>
+		<lnfillExtensionLine>
+			<lnRef name="Dash 0.5 pt"/>
+		</lnfillExtensionLine>
+		<lnfillConnector>
+			<lnRef name="Long Dash 0.25 pt"/>
+		</lnfillConnector>
+		<lnfillValueLine>
+			<lnRef name="Long Dash 0.75 pt"/>
+		</lnfillValueLine>
+		<lnfillRidge>
+			<lnRef name="Solid 2.25 pt"/>
+		</lnfillRidge>
+	</chart>
+	<harveyball sz="1400">
+		<fillRefCompleted name="tx1"/>
+		<fillRefBackground name="bg1"/>
+	</harveyball>
+	<checkbox sz="1400">
+		<fillRef name="No Fill"/>
+		<choices>
+			<glyph hotkeys="VO1" sz="1867">
+				<font typeface="Wingdings"/>
+				<t>&#61692;</t>
+			</glyph>
+			<glyph hotkeys="X2" sz="1867">
+				<font typeface="Wingdings"/>
+				<t>&#61691;</t>
+			</glyph>
+			<glyph hotkeys=" 0" sz="1867">
+				<font typeface="Arial"/>
+				<t> </t>
+			</glyph>
+		</choices>
+	</checkbox>
+</style>
