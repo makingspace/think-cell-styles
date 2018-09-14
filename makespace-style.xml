@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<style name="MakeSpace Think-Cell Style" xmlns="http://schemas.think-cell.com/22065">
+  <fillList>
+    <noFill name="No Fill"/>
+    <solidFill name="MakeSpace Green">
+      <sdrgbClr r="62" g="174" b="95"/>
+    </solidFill>
+    <solidFill name="Light Blue">
+      <sdrgbClr r="147" g="212" b="229"/>
+    </solidFill>
+    <solidFill name="Fourth Green">
+      <sdrgbClr r="24" g="81" b="38"/>
+    </solidFill>
+    <solidFill name="Gold">
+      <sdrgbClr r="255" g="204" b="10"/>
+    </solidFill>
+    <solidFill name="Second Green">
+      <sdrgbClr r="28" g="152" b="83"/>
+    </solidFill>
+    <solidFill name="Olive">
+      <sdrgbClr r="163" g="182" b="156"/>
+    </solidFill>
+    <solidFill name="Orange">
+      <sdrgbClr r="241" g="103" b="34"/>
+    </solidFill>
+  <seperator/>
+    <solidFill name="Third Green">
+      <sdrgbClr r="8" g="117" b="62"/>
+    </solidFill>
+    <solidFill name="Darkest Green">
+      <sdrgbClr r="15" g="57" b="22"/>
+    </solidFill>
+  <seperator/>
+    <solidFill name="Light Gray">
+      <sdrgbClr r="242" g="243" b="242"/>
+    </solidFill>
+    <solidFill name="Lightest Blue">
+      <sdrgbClr r="201" g="231" b="227"/>
+    </solidFill>
+  </fillList>
+  <fillScheme name="MakeSpace Contrast">
+    <fillRef name="MakeSpace Green"/>
+    <fillRef name="Light Blue"/>
+    <fillRef name="Fourth Green"/>
+    <fillRef name="Gold"/>
+    <fillRef name="Second Green"/>
+    <fillRef name="Olive"/>
+    <fillRef name="Orange"/>
+  </fillScheme>
+  <fillScheme name="MakeSpace Gradient">
+    <fillRef name="MakeSpace Green"/>
+    <fillRef name="Second Green"/>
+    <fillRef name="Third Green"/>
+    <fillRef name="Fourth Green"/>
+    <fillRef name="Darkest Green"/>
+  </fillScheme>
+  <fillScheme name="MakeSpace Gradient Rev">
+    <fillRef name="Darkest Green"/>
+    <fillRef name="Fourth Green"/>
+    <fillRef name="Third Green"/>
+    <fillRef name="Second Green"/>
+    <fillRef name="MakeSpace Green"/>
+  </fillScheme>
+  <fillSchemeRefDefault name="MakeSpace Contrast">
+</style>
